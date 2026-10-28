@@ -1,5 +1,4 @@
-## 💫 About Me:
- Hi, I'm Jugesh Kumar 👋<br><br>**Data Analyst | Data Scientist | ML Engineer**<br><br>I'm a B.Tech CSE (Data Science) student at AKTU Lucknow (2023–2027), passionate about turning raw data into insights and building machine learning models that solve real problems. I enjoy data cleaning, statistical analysis, and building predictive models with Python and SQL.<br><br>## 🔭 What I'm Working On<br>- 🎭 
+## 💫 About Me: Hi, I'm Jugesh Kumar 👋<br><br>**Data Analyst | Data Scientist | ML Engineer**<br><br>I'm a B.Tech CSE (Data Science) student at AKTU Lucknow (2023–2027), passionate about turning raw data into insights and building machine learning models that solve real problems. I enjoy data cleaning, statistical analysis, and building predictive models with Python and SQL.<br><br> 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jugeshkumar_9) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jugesh-kumar99) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@rubalkumar0) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jugesh.info@gmail.com) 
 # 💻 Tech Stack:
